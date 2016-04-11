@@ -1,0 +1,1 @@
+class BleetWithTrendingScore < Bleet; end

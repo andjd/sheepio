@@ -46,3 +46,5 @@ group :development do
 end
 
 gem 'faker'
+
+gem 'schema_plus_views'
